@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="RestrauntRatingSystem" />
+        <module name="ElevatorSystem" />
+        <module name="Facebook" />
+        <module name="SnakesAndLadderGame" />
+        <module name="APIRateLimiter" />
+        <module name="Facebook LLD" />
+        <module name="Cache" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="APIRateLimiter" target="16" />
+      <module name="Cache" target="16" />
+      <module name="ElevatorSystem" target="16" />
+      <module name="Facebook" target="16" />
+      <module name="Facebook Design" target="16" />
+      <module name="Facebook LLD" target="16" />
+      <module name="RestrauntRatingSystem" target="16" />
+      <module name="SnakesAndLadderGame" target="16" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
